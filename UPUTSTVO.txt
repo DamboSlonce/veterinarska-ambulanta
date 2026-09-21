@@ -1,0 +1,24 @@
+VetKeep - Veterinarska ambulanta
+================================
+
+Pokretanje
+----------
+1. Instalirajte Visual Studio 2019/2022 sa workload-om ".NET desktop development".
+2. Instalirajte SQL Server Express ILI koristite LocalDB (dolazi uz Visual Studio).
+3. Otvorite "Veterinarska Ambulanta WPF.sln".
+4. Podesite startni projekat: "Veterinarska Ambulanta WPF".
+5. Pritisnite F5.
+
+Baza se kreira sama pri prvom pokretanju (Veterinarska_Ambulanta).
+Ako želite ručno: pokrenite Baza\Veterinarska_Ambulanta.sql u SSMS.
+
+Prijava
+-------
+Korisničko ime: Veterinar
+Lozinka:        1234
+
+Aplikacija se povezuje redom na:
+- localhost\SQLEXPRESS
+- .\SQLEXPRESS
+- (localdb)\MSSQLLocalDB
+- localhost

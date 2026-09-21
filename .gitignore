@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+Testovi/
+Pregled/
+Dokumentacija/*.py
+*.zip

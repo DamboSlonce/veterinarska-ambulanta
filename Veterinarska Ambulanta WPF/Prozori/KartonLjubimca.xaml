@@ -1,0 +1,60 @@
+<Window x:Class="Veterinarska_Ambulanta_WPF.Prozori.KartonLjubimca"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Karton ljubimca" Height="450" Width="800">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <GroupBox Header="Podaci o ljubimcu" Margin="0,0,0,10">
+            <Grid Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="0,0,10,0">
+                    <Label Name="ImeLabel" Content="Ime"/>
+                    <Label Name="VlasnikLabel" Content="Vlasnik"/>
+                    <Label Name="CipLabel" Content="Broj čipa"/>
+                    <Label Name="TelefonLabel" Content="Telefon"/>
+                    <Label Name="PolLabel" Content="Pol"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1">
+                    <Label Name="AlergijaLabel" Content="Alergija"/>
+                    <Label Name="SterilisanLabel" Content="Sterilisan"/>
+                    <Label Name="TezinaLabel" Content="Težina"/>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+
+        <TabControl Grid.Row="1">
+            <TabItem Header="Termini">
+                <DataGrid Name="dgTermini" AutoGenerateColumns="False" Margin="10">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Datum" Binding="{Binding Datum}"/>
+                        <DataGridTextColumn Header="Vrsta usluge" Binding="{Binding VrstaUsluge}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Pregledi">
+                <DataGrid Name="dgPregledi" AutoGenerateColumns="False" Margin="10" SelectionChanged="dgPregledi_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID pregleda" Binding="{Binding IDPregleda}"/>
+                        <DataGridTextColumn Header="Izveštaj" Binding="{Binding Izvestaj}"/>
+                        <DataGridTextColumn Header="Lek" Binding="{Binding IDLeka}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Izveštaj">
+                <StackPanel Margin="10">
+                    <Label Content="Pritisnite na polje pregleda da se prikaže izveštaj"/>
+                    <TextBox Name="txtIzvestaj" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

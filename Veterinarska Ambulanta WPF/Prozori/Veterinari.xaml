@@ -1,0 +1,43 @@
+<Window x:Class="Veterinarska_Ambulanta_WPF.Prozori.Veterinari"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VetKeep - Veterinari" Height="800" Width="1500" ResizeMode="NoResize"
+        Background="{StaticResource AppBackground}">
+    <Grid>
+        <Button Content="Nazad" Margin="10,10,1394,734" Style="{StaticResource RoundedButton}" Click="ButtonNazad_Click"/>
+        <Label Content="Veterinari" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top"
+               Height="84" Width="360" FontFamily="Garamond" FontSize="60" FontWeight="Bold" Foreground="#C8F7C5"/>
+
+        <Label Content="Ime" Margin="82,163,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxIme" Margin="21,198,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Prezime" Margin="228,164,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxPrezime" Margin="181,198,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="JMBG" Margin="395,163,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxJMBG" Margin="341,198,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Broj telefona" Margin="534,163,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxBrojTelefona" Margin="501,198,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="157" Height="30" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="E-Mail" Margin="713,163,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxEmail" Margin="662,199,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <TextBox x:Name="TextboxIdVeterinara" Visibility="Hidden" Margin="22,270,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Button Content="Dodaj" Margin="921,195,423,536" Style="{StaticResource RoundedButton}" Background="#9DF16A" BorderBrush="Black" Click="ButtonDodaj_Click"/>
+        <Button Content="Obriši" Margin="1108,195,236,536" Style="{StaticResource RoundedButton}" Background="#F17D5D" BorderBrush="Black" Click="ButtonObrisi_Click"/>
+        <Button Content="Izmeni" Margin="1296,195,48,536" Style="{StaticResource RoundedButton}" BorderBrush="Black" Click="ButtonIzmeni_Click"/>
+
+        <DataGrid Name="DataGrid" Style="{StaticResource AppGrid}" Margin="58,309,46,44" SelectionChanged="DataGrid_SelectionChanged_1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IDVeterinara}" Header="ID veterinara" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Ime}" Header="Ime" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Prezime}" Header="Prezime" Width="*"/>
+                <DataGridTextColumn Binding="{Binding JMBG}" Header="JMBG" Width="*"/>
+                <DataGridTextColumn Binding="{Binding BrojTelefona}" Header="Broj telefona" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Email}" Header="Email" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

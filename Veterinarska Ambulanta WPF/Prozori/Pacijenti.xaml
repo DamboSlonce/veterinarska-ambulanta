@@ -1,0 +1,65 @@
+<Window x:Class="Veterinarska_Ambulanta_WPF.Prozori.Pacijenti"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VetKeep - Pacijenti" Height="800" Width="1500" ResizeMode="NoResize"
+        Background="{StaticResource AppBackground}">
+    <Grid>
+        <Button Content="Nazad" Margin="10,10,1394,734" Style="{StaticResource RoundedButton}" Click="ButtonNazad_Click"/>
+        <Label Content="Pacijenti" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top"
+               Height="84" Width="320" FontFamily="Garamond" FontSize="60" FontWeight="Bold" Foreground="#C8F7C5"/>
+
+        <Label Content="Ime ljubimca" Margin="50,122,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxIme" Margin="21,156,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Vlasnik" Margin="228,122,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxVlasnik" Margin="181,156,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Broj čipa" Margin="380,121,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxBrojCipa" Margin="341,156,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Telefon vlasnika" Margin="515,122,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxBrojTelefona" Margin="501,156,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="157" Height="30" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Pol" Margin="83,201,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <ComboBox x:Name="ComboboxPol" Margin="21,237,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Height="26" Background="#C8F7C5">
+            <ComboBoxItem Content="M"/>
+            <ComboBoxItem Content="Ž"/>
+        </ComboBox>
+
+        <Label Content="Sterilisan" Margin="224,200,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxSterilisan" Margin="181,234,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Težina (kg)" Margin="370,201,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxTezinaKg" Margin="341,234,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Alergije" Margin="549,201,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxAlergije" Margin="501,234,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Veterinar" Margin="700,202,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <ComboBox x:Name="ComboboxVeterinar" Margin="661,236,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Height="26" Background="#C8F7C5" Loaded="ComboboxVeterinar_Loaded"/>
+
+        <TextBox x:Name="TextboxIdPacijenta" Visibility="Hidden" Margin="662,157,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Button Content="Prikaži karton" Margin="923,106,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Height="32" Style="{StaticResource RoundedButton}" Click="KartonButton_Click"/>
+        <TextBox x:Name="pretragaPacijenataSearch" Margin="1176,65,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="28" TextChanged="pretragaPacijenataSearch_TextChanged"/>
+
+        <Button Content="Dodaj" Margin="923,183,421,548" Style="{StaticResource RoundedButton}" Background="#9DF16A" BorderBrush="Black" Click="ButtonDodaj_Click"/>
+        <Button Content="Obriši" Margin="1110,183,234,548" Style="{StaticResource RoundedButton}" Background="#F17D5D" BorderBrush="Black" Click="ButtonObrisi_Click"/>
+        <Button Content="Izmeni" Margin="1298,183,46,548" Style="{StaticResource RoundedButton}" BorderBrush="Black" Click="ButtonIzmeni_Click"/>
+
+        <DataGrid Name="DataGrid" Style="{StaticResource AppGrid}" Margin="58,309,46,44" SelectionChanged="DataGrid_SelectionChanged_1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IDPacijenta}" Header="ID pacijenta" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Ime}" Header="Ime ljubimca" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Vlasnik}" Header="Vlasnik" Width="*"/>
+                <DataGridTextColumn Binding="{Binding BrojCipa}" Header="Broj čipa" Width="*"/>
+                <DataGridTextColumn Binding="{Binding BrojTelefona}" Header="Telefon" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Pol}" Header="Pol" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Alergije}" Header="Alergije" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Sterilisan}" Header="Sterilisan" Width="*"/>
+                <DataGridTextColumn Binding="{Binding TezinaKg}" Header="Težina kg" Width="*"/>
+                <DataGridTextColumn Binding="{Binding IDVeterinara}" Header="ID veterinara" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

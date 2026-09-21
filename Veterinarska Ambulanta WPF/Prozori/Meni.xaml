@@ -1,0 +1,16 @@
+<Window x:Class="Veterinarska_Ambulanta_WPF.Prozori.Meni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VetKeep - Meni" Height="576" Width="800" ResizeMode="NoResize"
+        Background="{StaticResource AppBackground}">
+    <Grid>
+        <Label Content="VetKeep" HorizontalAlignment="Center" Margin="0,20,0,0" VerticalAlignment="Top"
+               Height="84" Width="316" FontFamily="Garamond" FontSize="60" FontWeight="Bold" Foreground="#C8F7C5"/>
+        <Button Content="Pacijenti" Margin="304,157,340,350" Style="{StaticResource RoundedButton}" Click="ButtonPacijenti_Click"/>
+        <Button Content="Termini" Margin="304,215,340,292" Style="{StaticResource RoundedButton}" Click="ButtonTermini_Click"/>
+        <Button Content="Pregledi" Margin="304,273,340,234" Style="{StaticResource RoundedButton}" Click="ButtonPregledi_Click"/>
+        <Button Content="Lekovi" Margin="304,331,340,176" Style="{StaticResource RoundedButton}" Click="ButtonLekovi_Click"/>
+        <Button Content="Veterinari" Margin="304,389,340,118" Style="{StaticResource RoundedButton}" Click="ButtonVeterinari_Click"/>
+        <Button Content="Izlogujte se" Margin="10,497,634,10" Style="{StaticResource RoundedButton}" Background="#E87A7A" Click="ButtonIzlogujteSe_Click"/>
+    </Grid>
+</Window>

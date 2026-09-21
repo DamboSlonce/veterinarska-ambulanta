@@ -1,0 +1,35 @@
+<Window x:Class="Veterinarska_Ambulanta_WPF.Prozori.Pregledi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="VetKeep - Pregledi" Height="800" Width="1500" ResizeMode="NoResize"
+        Background="{StaticResource AppBackground}">
+    <Grid>
+        <Button Content="Nazad" Margin="10,10,1394,734" Style="{StaticResource RoundedButton}" Click="ButtonNazad_Click"/>
+        <Label Content="Pregledi" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top"
+               Height="84" Width="280" FontFamily="Garamond" FontSize="60" FontWeight="Bold" Foreground="#C8F7C5"/>
+
+        <Label Content="ID Termina" Margin="74,148,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="TextboxIdTermina" Margin="36,183,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Label Content="Izveštaj" Margin="198,148,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <TextBox x:Name="IzvestajTextBox" Margin="196,182,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="154" Background="#C8F7C5"/>
+
+        <Label Content="Lek" Margin="417,148,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource FieldLabel}"/>
+        <ComboBox x:Name="ComboboxLek" Margin="355,184,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="155" Height="26" Background="#C8F7C5" Loaded="ComboboxLek_Loaded"/>
+
+        <TextBox x:Name="TextboxIdPregleda" Visibility="Hidden" Margin="515,183,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource RoundedTextBox}"/>
+
+        <Button Content="Dodaj" Margin="924,179,420,551" Style="{StaticResource RoundedButton}" Background="#9DF16A" BorderBrush="Black" Click="ButtonDodaj_Click"/>
+        <Button Content="Obriši" Margin="1111,179,233,551" Style="{StaticResource RoundedButton}" Background="#F17D5D" BorderBrush="Black" Click="ButtonObrisi_Click"/>
+        <Button Content="Izmeni" Margin="1299,179,45,551" Style="{StaticResource RoundedButton}" BorderBrush="Black" Click="ButtonIzmeni_Click"/>
+
+        <DataGrid Name="DataGrid" Style="{StaticResource AppGrid}" Margin="58,309,46,44" SelectionChanged="DataGrid_SelectionChanged_1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding IDPregleda}" Header="ID Pregleda" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Izvestaj}" Header="Izveštaj" Width="*"/>
+                <DataGridTextColumn Binding="{Binding IDTermina}" Header="ID Termina" Width="*"/>
+                <DataGridTextColumn Binding="{Binding IDLeka}" Header="ID Leka" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
