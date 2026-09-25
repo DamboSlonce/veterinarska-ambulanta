@@ -1,9 +1,77 @@
 {
   "video_url": "https://www.tiktok.com/@vukasin.vvl/video/7688407288696032532",
-  "note": "Samo top-level pitanja. Odgovori na komentare su isključeni. Filtrirani komentari nisu dostupni javnom API-ju.",
+  "note": "Top-level pitanja bez odgovora. Isključena pitanja o VVL / VVL Brothers / Vid.",
   "available_comments": 298,
   "api_total": 567,
-  "questions_count": 97,
+  "questions_count": 84,
+  "removed_count": 13,
+  "removed": [
+    {
+      "username": "rosic.95",
+      "text": "Da li je ovaj brat bio u vvl brothers?",
+      "likes": 2044
+    },
+    {
+      "username": "kristinaiva3162",
+      "text": "Oćeš li opet doći u VVL brothers",
+      "likes": 37
+    },
+    {
+      "username": "danii.here160",
+      "text": "Oćeš opet doci u vvl brothers",
+      "likes": 13
+    },
+    {
+      "username": "iva.b120",
+      "text": "Šta su vvl braća rekli",
+      "likes": 3
+    },
+    {
+      "username": "patko365",
+      "text": "oćeš opet da snimaš sa vvl brothers",
+      "likes": 1
+    },
+    {
+      "username": "lena_makarena20",
+      "text": "da li ces se vratiti u vvl brothers,i da li si gay?",
+      "likes": 1
+    },
+    {
+      "username": "djjjjidjjjjji",
+      "text": "zasto nisi vise u vvl brothers",
+      "likes": 1
+    },
+    {
+      "username": "vasilije681",
+      "text": "Comeback vvl brothers??",
+      "likes": 0
+    },
+    {
+      "username": "jucaac1",
+      "text": "Da li ćeš se vratiti u vvl brother",
+      "likes": 0
+    },
+    {
+      "username": "mihajlo68920",
+      "text": "oćeš se vratiti u vvl brothers",
+      "likes": 0
+    },
+    {
+      "username": "petarradisavljevi3",
+      "text": "dali će se vratiti vvl brothers?",
+      "likes": 0
+    },
+    {
+      "username": "tomanovic_66",
+      "text": "sto si napustio vvl brothers",
+      "likes": 0
+    },
+    {
+      "username": "stefanvijinovic",
+      "text": "mozes li da kazes na svi zasto si morao da napustis vvl brothers bio je bas dobro akd si bio u vvl brothers",
+      "likes": 0
+    }
+  ],
   "questions": [
     {
       "user": "ana",
@@ -134,279 +202,6 @@
           "liked_by_creator": false,
           "create_time": 1790348080,
           "cid": "7689486384975774482"
-        }
-      ],
-      "source": "top"
-    },
-    {
-      "user": "Росић🎰",
-      "username": "rosic.95",
-      "text": "Da li je ovaj brat bio u vvl brothers?",
-      "likes": 2044,
-      "replies_count": 27,
-      "liked_by_creator": true,
-      "create_time": 1790098772,
-      "cid": "7688415608233820948",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 301,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100220,
-          "cid": "7688421823986008853"
-        },
-        {
-          "user": "~azra~",
-          "username": "aazzrraa12",
-          "text": "znala sam da mi je poznat",
-          "likes": 45,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100342,
-          "cid": "7688422356242842389"
-        },
-        {
-          "user": "🇪🇸",
-          "username": "andjic9",
-          "text": "da",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790108306,
-          "cid": "7688456508464775957"
-        },
-        {
-          "user": "una",
-          "username": "_unnnna_",
-          "text": "da",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102820,
-          "cid": "7688432997695439637"
-        },
-        {
-          "user": "💜8️⃣🤍",
-          "username": "jaksa.nedeljlkovi",
-          "text": "da",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790149445,
-          "cid": "7688633272796005141"
-        },
-        {
-          "user": "Росић🎰",
-          "username": "rosic.95",
-          "text": "Ima da se ubijemmmmm",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198292,
-          "cid": "7688843011187737364"
-        },
-        {
-          "user": "D_🦎",
-          "username": "deksa___7",
-          "text": "Daaaa",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790259138,
-          "cid": "7689104420537467656"
-        },
-        {
-          "user": "jelena_nklc",
-          "username": "jecax75",
-          "text": "Istttt",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790284734,
-          "cid": "7689214272996311814"
-        },
-        {
-          "user": "Luka Tenma",
-          "username": "yoez2k0",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790099001,
-          "cid": "7688416611875357461"
-        },
-        {
-          "user": "петра",
-          "username": "niciforovichhh_",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790099503,
-          "cid": "7688418722444673793"
-        },
-        {
-          "user": "Kika🇷🇸🏀🎸",
-          "username": "kristinaiva3162",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790101566,
-          "cid": "7688427597793903380"
-        },
-        {
-          "user": "🇷🇸deki☦️",
-          "username": "moniei30",
-          "text": "Yes",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790104390,
-          "cid": "7688439730224546582"
-        },
-        {
-          "user": "Luka",
-          "username": "luka52671",
-          "text": "Da da jesi majstore",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790105092,
-          "cid": "7688442753836352274"
-        },
-        {
-          "user": "𝓱𝓮𝓵𝓮𝓷𝓪𝓶𝓲𝓽𝓽🤍🐚🪐",
-          "username": "helen4mitic",
-          "text": "Daa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790105477,
-          "cid": "7688444398983578389"
-        },
-        {
-          "user": "Jovanović🇧🇷",
-          "username": "veljkojovanovic009",
-          "text": "jeste",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790106735,
-          "cid": "7688449834038084360"
-        },
-        {
-          "user": "Bacho_16",
-          "username": "daviixbacho",
-          "text": "Da bio je",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790108771,
-          "cid": "7688458569134424850"
-        },
-        {
-          "user": "luka_pisarević",
-          "username": "luka.pisarevic8",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790109535,
-          "cid": "7688461858475197205"
-        },
-        {
-          "user": "pavle866",
-          "username": "pavle866",
-          "text": "I jel jesi",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790115538,
-          "cid": "7688487551203951380"
-        },
-        {
-          "user": "Itscoka__",
-          "username": "darija.53",
-          "text": "daaa to je onaj najlepsi[Starstruck]",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790144839,
-          "cid": "7688613475841770248"
-        },
-        {
-          "user": "🇪🇸",
-          "username": "simkelaa1234",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790150035,
-          "cid": "7688635763383059221"
-        },
-        {
-          "user": "_marinkee",
-          "username": "kragujevac6",
-          "text": "bahaaaahaaa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198263,
-          "cid": "7688842887391855381"
-        },
-        {
-          "user": "_marinkee",
-          "username": "kragujevac6",
-          "text": "1800 likeeeee",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198316,
-          "cid": "7688843140062249748"
-        },
-        {
-          "user": "Росић🎰",
-          "username": "rosic.95",
-          "text": "Dodje mi da izbrisem com",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198342,
-          "cid": "7688843251218596628"
-        },
-        {
-          "user": "_marinkee",
-          "username": "kragujevac6",
-          "text": "ni sluc",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198368,
-          "cid": "7688843331406758677"
-        },
-        {
-          "user": "🌺🫧SQUISHY AMALIJA🌺🫧",
-          "username": "squushy.amalija",
-          "text": "Daaa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790283100,
-          "cid": "7689207265795392274"
-        },
-        {
-          "user": "Džoni",
-          "username": "nikolabajlovic",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790347223,
-          "cid": "7689482742362637063"
         }
       ],
       "source": "top"
@@ -715,29 +510,6 @@
       "source": "top"
     },
     {
-      "user": "Kika🇷🇸🏀🎸",
-      "username": "kristinaiva3162",
-      "text": "Oćeš li opet doći u VVL brothers",
-      "likes": 37,
-      "replies_count": 1,
-      "liked_by_creator": true,
-      "create_time": 1790100123,
-      "cid": "7688421393626432277",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🫡",
-          "likes": 14,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100272,
-          "cid": "7688422031906341653"
-        }
-      ],
-      "source": "top"
-    },
-    {
       "user": "userrr12",
       "username": "userrr120385",
       "text": "Da li su ti možda oni rekli da postoji šansa da se vratiš i da li bi se vratio kad bi te pozvali?",
@@ -827,18 +599,6 @@
           "cid": "7688432377296536340"
         }
       ],
-      "source": "top"
-    },
-    {
-      "user": "Daanica",
-      "username": "danii.here160",
-      "text": "Oćeš opet doci u vvl brothers",
-      "likes": 13,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790100604,
-      "cid": "7688423456346227477",
-      "replies": [],
       "source": "top"
     },
     {
@@ -1141,18 +901,6 @@
       "source": "top"
     },
     {
-      "user": "ℹ️va",
-      "username": "iva.b120",
-      "text": "Šta su vvl braća rekli",
-      "likes": 3,
-      "replies_count": 0,
-      "liked_by_creator": true,
-      "create_time": 1790097322,
-      "cid": "7688409376124076821",
-      "replies": [],
-      "source": "top"
-    },
-    {
       "user": "molim",
       "username": "nakitumi.najsi",
       "text": "jel ti fali antoni",
@@ -1284,18 +1032,6 @@
       "source": "top"
     },
     {
-      "user": "Patko🤾 d⃠",
-      "username": "patko365",
-      "text": "oćeš opet da snimaš sa vvl brothers",
-      "likes": 1,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790099176,
-      "cid": "7688417290136961814",
-      "replies": [],
-      "source": "top"
-    },
-    {
       "user": "percijus",
       "username": "percijus",
       "text": "Koji su tvoji stvarni utisci i kako si zapravo doziveo sve sto se desilo tamo?",
@@ -1356,18 +1092,6 @@
       "source": "top"
     },
     {
-      "user": "⋆𐙚iluvlena𐙚⋆",
-      "username": "lena_makarena20",
-      "text": "da li ces se vratiti u vvl brothers,i da li si gay?",
-      "likes": 1,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790165156,
-      "cid": "7688700728660640532",
-      "replies": [],
-      "source": "top"
-    },
-    {
       "user": "Nađa🪼",
       "username": "nackica345",
       "text": "da li ceš nakon takmicenja nastaviti da se vidjas sa tarom , čak iako se ne vratiš",
@@ -1377,29 +1101,6 @@
       "create_time": 1790245504,
       "cid": "7689045845141013256",
       "replies": [],
-      "source": "top"
-    },
-    {
-      "user": "𝓭𝓳𝓾𝓻𝓭𝓳𝓪",
-      "username": "djjjjidjjjjji",
-      "text": "zasto nisi vise u vvl brothers",
-      "likes": 1,
-      "replies_count": 1,
-      "liked_by_creator": false,
-      "create_time": 1790326375,
-      "cid": "7689393158640599815",
-      "replies": [
-        {
-          "user": "semafor🌹",
-          "username": "wseclmb",
-          "text": "ne da mu se",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790326837,
-          "cid": "7689395172215489287"
-        }
-      ],
       "source": "top"
     },
     {
@@ -1595,42 +1296,6 @@
       "source": "top"
     },
     {
-      "user": "милетић",
-      "username": "vasilije681",
-      "text": "Comeback vvl brothers??",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790163618,
-      "cid": "7688694150962774790",
-      "replies": [],
-      "source": "top"
-    },
-    {
-      "user": "Juca",
-      "username": "jucaac1",
-      "text": "Da li ćeš se vratiti u vvl brother",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790165656,
-      "cid": "7688702902211117832",
-      "replies": [],
-      "source": "top"
-    },
-    {
-      "user": "Mxx@_official",
-      "username": "mihajlo68920",
-      "text": "oćeš se vratiti u vvl brothers",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790170779,
-      "cid": "7688724894734205697",
-      "replies": [],
-      "source": "top"
-    },
-    {
       "user": "Inesss",
       "username": "martinacigvan1",
       "text": "jel jos love alend adrija jos se snima da ili ne",
@@ -1696,18 +1361,6 @@
       "liked_by_creator": false,
       "create_time": 1790173930,
       "cid": "7688738431207326485",
-      "replies": [],
-      "source": "top"
-    },
-    {
-      "user": "Гробари Југ",
-      "username": "petarradisavljevi3",
-      "text": "dali će se vratiti vvl brothers?",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790182897,
-      "cid": "7688776936475001608",
       "replies": [],
       "source": "top"
     },
@@ -1834,18 +1487,6 @@
       "liked_by_creator": false,
       "create_time": 1790260357,
       "cid": "7689109638004720405",
-      "replies": [],
-      "source": "top"
-    },
-    {
-      "user": "Toma",
-      "username": "tomanovic_66",
-      "text": "sto si napustio vvl brothers",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790272671,
-      "cid": "7689162514462491444",
       "replies": [],
       "source": "top"
     },
@@ -2002,18 +1643,6 @@
       "liked_by_creator": false,
       "create_time": 1790346112,
       "cid": "7689477969928389384",
-      "replies": [],
-      "source": "top"
-    },
-    {
-      "user": "stefan✝",
-      "username": "stefanvijinovic",
-      "text": "mozes li da kazes na svi zasto si morao da napustis vvl brothers bio je bas dobro akd si bio u vvl brothers",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790349356,
-      "cid": "7689491870473208584",
       "replies": [],
       "source": "top"
     }
