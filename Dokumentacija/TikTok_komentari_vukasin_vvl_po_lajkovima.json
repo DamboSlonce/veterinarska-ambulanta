@@ -2,6 +2,7 @@
   "video_url": "https://www.tiktok.com/@vukasin.vvl/video/7688407288696032532",
   "api_total": 567,
   "fetched": 298,
+  "note": "Samo top-level komentari. Odgovori na komentare su isključeni.",
   "comments": [
     {
       "user": "ana",
@@ -12,128 +13,7 @@
       "liked_by_creator": true,
       "create_time": 1790103265,
       "cid": "7688434921547203346",
-      "replies": [
-        {
-          "user": "dunjaivnv",
-          "username": "dunjaivnv",
-          "text": "HABABABABABABABBA",
-          "likes": 51,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790104882,
-          "cid": "7688441821606069013"
-        },
-        {
-          "user": "Лука",
-          "username": "kaluu_10",
-          "text": "Humor ekvivalentan detetu od pet godina",
-          "likes": 40,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790112784,
-          "cid": "7688475687133397761"
-        },
-        {
-          "user": "Адра",
-          "username": "cryracha",
-          "text": "misliiiš?",
-          "likes": 12,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790111390,
-          "cid": "7688469811357188872"
-        },
-        {
-          "user": "🦇",
-          "username": "sektogas7",
-          "text": "jesil ulovio sebi nekog",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790166354,
-          "cid": "7688705894222021397"
-        },
-        {
-          "user": "M🥀",
-          "username": "milicanikoliicc",
-          "text": "ja tebe obozavam",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790191194,
-          "cid": "7688812518983631636"
-        },
-        {
-          "user": "aleksa",
-          "username": "mqteeorr",
-          "text": "buraz svaka riba lici na kiklopa",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790239437,
-          "cid": "7689019754397598470"
-        },
-        {
-          "user": "Tasic8i",
-          "username": "tasic8i",
-          "text": "сви људи тамо су пик ми, само што је разлика што су ликови отишли да покажу њихове мишиће и јадност а девојке курвирлук, свака је тамо просечна или идпод",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790120187,
-          "cid": "7688507494314738452"
-        },
-        {
-          "user": "Mv",
-          "username": "mvmata2",
-          "text": "Jesu",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790150342,
-          "cid": "7688636881530274582"
-        },
-        {
-          "user": ":)",
-          "username": "baannshhee",
-          "text": "🔥🔥🔥",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790112886,
-          "cid": "7688476188906832656"
-        },
-        {
-          "user": "David117🇷🇸",
-          "username": "david117999",
-          "text": "pa gusko nije devojkaa birala nego drugi decko je birao njegovu devojku 🤦",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790180021,
-          "cid": "7688764542914347828"
-        },
-        {
-          "user": "Joe_5",
-          "username": "jj0e5",
-          "text": "ako si ti singer ja sam Karleuša",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790199026,
-          "cid": "7688846154968515348"
-        },
-        {
-          "user": "nikoliccc",
-          "username": "nikolic.1",
-          "text": "8000-ti lajk",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790348080,
-          "cid": "7689486384975774482"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Росић🎰",
@@ -144,268 +24,7 @@
       "liked_by_creator": true,
       "create_time": 1790098772,
       "cid": "7688415608233820948",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 301,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100220,
-          "cid": "7688421823986008853"
-        },
-        {
-          "user": "~azra~",
-          "username": "aazzrraa12",
-          "text": "znala sam da mi je poznat",
-          "likes": 45,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100342,
-          "cid": "7688422356242842389"
-        },
-        {
-          "user": "🇪🇸",
-          "username": "andjic9",
-          "text": "da",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790108306,
-          "cid": "7688456508464775957"
-        },
-        {
-          "user": "una",
-          "username": "_unnnna_",
-          "text": "da",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102820,
-          "cid": "7688432997695439637"
-        },
-        {
-          "user": "💜8️⃣🤍",
-          "username": "jaksa.nedeljlkovi",
-          "text": "da",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790149445,
-          "cid": "7688633272796005141"
-        },
-        {
-          "user": "Росић🎰",
-          "username": "rosic.95",
-          "text": "Ima da se ubijemmmmm",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198292,
-          "cid": "7688843011187737364"
-        },
-        {
-          "user": "D_🦎",
-          "username": "deksa___7",
-          "text": "Daaaa",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790259138,
-          "cid": "7689104420537467656"
-        },
-        {
-          "user": "jelena_nklc",
-          "username": "jecax75",
-          "text": "Istttt",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790284734,
-          "cid": "7689214272996311814"
-        },
-        {
-          "user": "Luka Tenma",
-          "username": "yoez2k0",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790099001,
-          "cid": "7688416611875357461"
-        },
-        {
-          "user": "петра",
-          "username": "niciforovichhh_",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790099503,
-          "cid": "7688418722444673793"
-        },
-        {
-          "user": "Kika🇷🇸🏀🎸",
-          "username": "kristinaiva3162",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790101566,
-          "cid": "7688427597793903380"
-        },
-        {
-          "user": "🇷🇸deki☦️",
-          "username": "moniei30",
-          "text": "Yes",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790104390,
-          "cid": "7688439730224546582"
-        },
-        {
-          "user": "Luka",
-          "username": "luka52671",
-          "text": "Da da jesi majstore",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790105092,
-          "cid": "7688442753836352274"
-        },
-        {
-          "user": "𝓱𝓮𝓵𝓮𝓷𝓪𝓶𝓲𝓽𝓽🤍🐚🪐",
-          "username": "helen4mitic",
-          "text": "Daa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790105477,
-          "cid": "7688444398983578389"
-        },
-        {
-          "user": "Jovanović🇧🇷",
-          "username": "veljkojovanovic009",
-          "text": "jeste",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790106735,
-          "cid": "7688449834038084360"
-        },
-        {
-          "user": "Bacho_16",
-          "username": "daviixbacho",
-          "text": "Da bio je",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790108771,
-          "cid": "7688458569134424850"
-        },
-        {
-          "user": "luka_pisarević",
-          "username": "luka.pisarevic8",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790109535,
-          "cid": "7688461858475197205"
-        },
-        {
-          "user": "pavle866",
-          "username": "pavle866",
-          "text": "I jel jesi",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790115538,
-          "cid": "7688487551203951380"
-        },
-        {
-          "user": "Itscoka__",
-          "username": "darija.53",
-          "text": "daaa to je onaj najlepsi[Starstruck]",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790144839,
-          "cid": "7688613475841770248"
-        },
-        {
-          "user": "🇪🇸",
-          "username": "simkelaa1234",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790150035,
-          "cid": "7688635763383059221"
-        },
-        {
-          "user": "_marinkee",
-          "username": "kragujevac6",
-          "text": "bahaaaahaaa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198263,
-          "cid": "7688842887391855381"
-        },
-        {
-          "user": "_marinkee",
-          "username": "kragujevac6",
-          "text": "1800 likeeeee",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198316,
-          "cid": "7688843140062249748"
-        },
-        {
-          "user": "Росић🎰",
-          "username": "rosic.95",
-          "text": "Dodje mi da izbrisem com",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198342,
-          "cid": "7688843251218596628"
-        },
-        {
-          "user": "_marinkee",
-          "username": "kragujevac6",
-          "text": "ni sluc",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790198368,
-          "cid": "7688843331406758677"
-        },
-        {
-          "user": "🌺🫧SQUISHY AMALIJA🌺🫧",
-          "username": "squushy.amalija",
-          "text": "Daaa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790283100,
-          "cid": "7689207265795392274"
-        },
-        {
-          "user": "Džoni",
-          "username": "nikolabajlovic",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790347223,
-          "cid": "7689482742362637063"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Vid",
@@ -427,38 +46,7 @@
       "liked_by_creator": true,
       "create_time": 1790099488,
       "cid": "7688418689415365394",
-      "replies": [
-        {
-          "user": "sanda.djordjevic",
-          "username": "sendiiii_9",
-          "text": "Aposlutno se sve slažem sa tobom. Isto sam ga doživela, doduse bilo mi je žao kad je ispao onog momenta kad je Tara počela da plače a Vukašin je bio u fazonu \"Nemoj da plačeš molim te\" i počeo da okreće glavu od nje jer se tu videlo da ni njemu nije bilo svejedno zbog ishoda te situacije",
-          "likes": 58,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790124381,
-          "cid": "7688525542413468423"
-        },
-        {
-          "user": "dora",
-          "username": "teyyii5",
-          "text": "pretacno",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790152410,
-          "cid": "7688645987711927046"
-        },
-        {
-          "user": ".",
-          "username": "kestenjar",
-          "text": "pffft",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790174440,
-          "cid": "7688740532059423510"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "ante vrankić",
@@ -469,18 +57,7 @@
       "liked_by_creator": true,
       "create_time": 1790195054,
       "cid": "7688829139784696609",
-      "replies": [
-        {
-          "user": "Aldox",
-          "username": "aldox211",
-          "text": "a tebi ?? a da nije Vukašin",
-          "likes": 22,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790200573,
-          "cid": "7688852673014301462"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "🎀",
@@ -491,28 +68,7 @@
       "liked_by_creator": true,
       "create_time": 1790098374,
       "cid": "7688413927785120519",
-      "replies": [
-        {
-          "user": "ivaalukic",
-          "username": "ivaalukic",
-          "text": "Bilo bi top da udje opet kao bombshell iii uzme svoju devojku nazad ovi novi likovi suu sranje zivo mnogo mii je zao Tare i Vukijaa",
-          "likes": 172,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790098700,
-          "cid": "7688415321628295954"
-        },
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 143,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790098466,
-          "cid": "7688414286616740629"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "emy.core",
@@ -523,28 +79,7 @@
       "liked_by_creator": false,
       "create_time": 1790104375,
       "cid": "7688439678458774292",
-      "replies": [
-        {
-          "user": "x",
-          "username": "lovvinglyy",
-          "text": "🤪🤔",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790164229,
-          "cid": "7688696766627840775"
-        },
-        {
-          "user": "username84281040",
-          "username": "username84281040",
-          "text": "objektivna istina koju zene ne mogu da prihvate 😭✌️",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790301763,
-          "cid": "7689287392403292949"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Martina",
@@ -555,48 +90,7 @@
       "liked_by_creator": false,
       "create_time": 1790102944,
       "cid": "7688433497115919126",
-      "replies": [
-        {
-          "user": "🐀",
-          "username": "mollysk91",
-          "text": "To je rijaliti ne serija, zamisli plakat na rijaliti show💀",
-          "likes": 32,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790104439,
-          "cid": "7688439935447761686"
-        },
-        {
-          "user": "ITACHI UCHIHA",
-          "username": "crnidjordje11",
-          "text": "kad si debilka",
-          "likes": 12,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790135958,
-          "cid": "7688575330600223509"
-        },
-        {
-          "user": "laura",
-          "username": "cendaklaura",
-          "text": "",
-          "likes": 7,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790264984,
-          "cid": "7689129429431763734"
-        },
-        {
-          "user": "monimish",
-          "username": "trizmand",
-          "text": "embarrassing",
-          "likes": 5,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790149315,
-          "cid": "7688632685053854471"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "L",
@@ -607,48 +101,7 @@
       "liked_by_creator": true,
       "create_time": 1790098765,
       "cid": "7688415577602573074",
-      "replies": [
-        {
-          "user": "jole",
-          "username": "jovanaradic5",
-          "text": "Roberto i Gašper bi dobili pojačanje da je ostao",
-          "likes": 172,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790105792,
-          "cid": "7688445768730313490"
-        },
-        {
-          "user": "Onako",
-          "username": "tekonakoo",
-          "text": "nema ovaj misljenje",
-          "likes": 72,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790104021,
-          "cid": "7688438172543484693"
-        },
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 21,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100244,
-          "cid": "7688421925656232724"
-        },
-        {
-          "user": "Luka Tenma",
-          "username": "yoez2k0",
-          "text": "au mora pogledam",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790099007,
-          "cid": "7688416623494087445"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "UltraVision song contest",
@@ -659,28 +112,7 @@
       "liked_by_creator": true,
       "create_time": 1790099553,
       "cid": "7688418899581109015",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 29,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100265,
-          "cid": "7688422023208698644"
-        },
-        {
-          "user": "Mel👑",
-          "username": "blonde_devil_26",
-          "text": "Odma će ti reci 😂",
-          "likes": 6,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790109816,
-          "cid": "7688463008926499606"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Milan Mihajlović",
@@ -713,38 +145,7 @@
       "liked_by_creator": true,
       "create_time": 1790102369,
       "cid": "7688431062917825301",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 21,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102608,
-          "cid": "7688432072017003284"
-        },
-        {
-          "user": "I",
-          "username": "iskra.banovicc",
-          "text": "Kad ces da odgovorisss",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102632,
-          "cid": "7688432204791202581"
-        },
-        {
-          "user": "Alisezah",
-          "username": "alisezah8",
-          "text": "Ajde",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790103453,
-          "cid": "7688435716368106261"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "comicomicomicomicomicomicomi✨",
@@ -766,68 +167,7 @@
       "liked_by_creator": false,
       "create_time": 1790161598,
       "cid": "7688685430938534662",
-      "replies": [
-        {
-          "user": "🖤",
-          "username": "iviccchh",
-          "text": "Najvrv ce Tara nadje drugog",
-          "likes": 7,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790166834,
-          "cid": "7688707901876503317"
-        },
-        {
-          "user": "ℒℯ𝓃𝓀𝒶🎞",
-          "username": "llenka.obradovic",
-          "text": "Nadam se",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790178399,
-          "cid": "7688757638418563846"
-        },
-        {
-          "user": "Mihajlo",
-          "username": "mihajlo_savic2",
-          "text": "cvrc",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790172786,
-          "cid": "7688733507733455622"
-        },
-        {
-          "user": "･ + ♪ ˖ ✧",
-          "username": "_.moonlust",
-          "text": "aj tink da oce",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790178223,
-          "cid": "7688756885486682900"
-        },
-        {
-          "user": "Blagoje",
-          "username": "blagoje_dikic",
-          "text": "lenka sta je ovo",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790163916,
-          "cid": "7688695391211471634"
-        },
-        {
-          "user": "･ + ♪ ˖ ✧",
-          "username": "_.moonlust",
-          "text": "isto",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790178454,
-          "cid": "7688757861883151124"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Kika🇷🇸🏀🎸",
@@ -838,18 +178,7 @@
       "liked_by_creator": true,
       "create_time": 1790100123,
       "cid": "7688421393626432277",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🫡",
-          "likes": 14,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100272,
-          "cid": "7688422031906341653"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "luka",
@@ -871,58 +200,7 @@
       "liked_by_creator": false,
       "create_time": 1790099118,
       "cid": "7688417125123457800",
-      "replies": [
-        {
-          "user": "Jovan(: slavic",
-          "username": "js_md_edits",
-          "text": "Au ksenija",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790110137,
-          "cid": "7688464423732609808"
-        },
-        {
-          "user": "☦️🇪🇸",
-          "username": "nikolajov0",
-          "text": "😂😂",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790110269,
-          "cid": "7688464993284522759"
-        },
-        {
-          "user": "nadjo",
-          "username": "nadja_t28",
-          "text": "Buk",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790164030,
-          "cid": "7688695918773764884"
-        },
-        {
-          "user": "𝒜𝓃𝒹𝒿𝒶💐",
-          "username": "andjelijaaaaaaaaaaaaaaaa",
-          "text": "Hahahahahahahaha",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790250191,
-          "cid": "7689065969797088020"
-        },
-        {
-          "user": "ksenijicaa",
-          "username": "_ksenija_najjaca_",
-          "text": "Ti si au jovane",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790141217,
-          "cid": "7688597897336947474"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "sara",
@@ -944,18 +222,7 @@
       "liked_by_creator": true,
       "create_time": 1790100207,
       "cid": "7688421782021636885",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102598,
-          "cid": "7688432030388405012"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "vanja🥋🥋",
@@ -977,18 +244,7 @@
       "liked_by_creator": false,
       "create_time": 1790099439,
       "cid": "7688418497302823701",
-      "replies": [
-        {
-          "user": "jelicch_",
-          "username": "d82821g",
-          "text": "Hahahahaah",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790109397,
-          "cid": "7688461247397839634"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Nadja🌸💗🌺",
@@ -999,18 +255,7 @@
       "liked_by_creator": true,
       "create_time": 1790102180,
       "cid": "7688430239437816594",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102625,
-          "cid": "7688432155391968020"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "kulja_f",
@@ -1021,18 +266,7 @@
       "liked_by_creator": false,
       "create_time": 1790097209,
       "cid": "7688408906255434514",
-      "replies": [
-        {
-          "user": "11010",
-          "username": "l33vu_210",
-          "text": "sta pises bre ti",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790245372,
-          "cid": "7689045283631776518"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "jj",
@@ -1043,18 +277,7 @@
       "liked_by_creator": true,
       "create_time": 1790099511,
       "cid": "7688418793987343122",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102683,
-          "cid": "7688432377296536340"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "n05131209",
@@ -1098,18 +321,7 @@
       "liked_by_creator": true,
       "create_time": 1790098688,
       "cid": "7688415266414199560",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100288,
-          "cid": "7688422140374270740"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Enes Sijamija",
@@ -1142,18 +354,7 @@
       "liked_by_creator": true,
       "create_time": 1790144004,
       "cid": "7688609842223989525",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790149962,
-          "cid": "7688635470192575252"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "𝓗",
@@ -1175,18 +376,7 @@
       "liked_by_creator": true,
       "create_time": 1790100555,
       "cid": "7688423249416733461",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "😭",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102714,
-          "cid": "7688432544504922900"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "🦕",
@@ -1197,38 +387,7 @@
       "liked_by_creator": false,
       "create_time": 1790106719,
       "cid": "7688449721433588497",
-      "replies": [
-        {
-          "user": "💸",
-          "username": "iskrastokic",
-          "text": "opaaa",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790181598,
-          "cid": "7688771360625607444"
-        },
-        {
-          "user": "🦕",
-          "username": "unastojanovic3",
-          "text": "zanima me",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790181869,
-          "cid": "7688772478545576705"
-        },
-        {
-          "user": "💸",
-          "username": "iskrastokic",
-          "text": "brao",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790182028,
-          "cid": "7688773196619973397"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "čoda",
@@ -1261,18 +420,7 @@
       "liked_by_creator": true,
       "create_time": 1790099418,
       "cid": "7688418411504157458",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100508,
-          "cid": "7688423065785729812"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "jj",
@@ -1283,18 +431,7 @@
       "liked_by_creator": true,
       "create_time": 1790099529,
       "cid": "7688418900563936007",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100517,
-          "cid": "7688423121015161620"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "vida",
@@ -1338,18 +475,7 @@
       "liked_by_creator": true,
       "create_time": 1790098918,
       "cid": "7688416243283985172",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790100375,
-          "cid": "7688422469972394772"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "jj",
@@ -1360,18 +486,7 @@
       "liked_by_creator": true,
       "create_time": 1790099543,
       "cid": "7688418919619969800",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102691,
-          "cid": "7688432443133199124"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Nikolina",
@@ -1393,18 +508,7 @@
       "liked_by_creator": false,
       "create_time": 1790104360,
       "cid": "7688439620116136712",
-      "replies": [
-        {
-          "user": "𝒂𝒅𝒓𝒊𝒋𝒂𝒏𝒂𝒂🪽",
-          "username": "zivanovich01",
-          "text": "APSOLUTNO TREBAS NAM",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790105416,
-          "cid": "7688444104788132615"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "𝓝𝓪𝓽𝓪𝓵𝓲𝓳𝓪",
@@ -1415,28 +519,7 @@
       "liked_by_creator": false,
       "create_time": 1790098679,
       "cid": "7688415240073741072",
-      "replies": [
-        {
-          "user": "🖤",
-          "username": "cabric_lana",
-          "text": "Izvini?",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790099353,
-          "cid": "7688418113533051655"
-        },
-        {
-          "user": "𝓝𝓪𝓽𝓪𝓵𝓲𝓳𝓪",
-          "username": "natalija3171",
-          "text": "sta?",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102793,
-          "cid": "7688432925864215312"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Tijana Devic",
@@ -1447,18 +530,7 @@
       "liked_by_creator": false,
       "create_time": 1790099806,
       "cid": "7688420074738451220",
-      "replies": [
-        {
-          "user": "lana",
-          "username": "savicl6",
-          "text": "tijana",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790168327,
-          "cid": "7688714383148614421"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "H🪽",
@@ -1480,18 +552,7 @@
       "liked_by_creator": false,
       "create_time": 1790101050,
       "cid": "7688425414154502930",
-      "replies": [
-        {
-          "user": "𝓝𝓜",
-          "username": "n.milovanoviccc",
-          "text": "Fr",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790113693,
-          "cid": "7688479636867007253"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "andrea🐸",
@@ -1535,28 +596,7 @@
       "liked_by_creator": false,
       "create_time": 1790110588,
       "cid": "7688466332292268807",
-      "replies": [
-        {
-          "user": "nnemanjaa07",
-          "username": "nnemanjaa07",
-          "text": "Cj",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790140291,
-          "cid": "7688593899368121108"
-        },
-        {
-          "user": "𝓢𝓪𝓻𝓲",
-          "username": "vvujicics",
-          "text": "😜",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790149722,
-          "cid": "7688634440138769170"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "🎭",
@@ -1578,18 +618,7 @@
       "liked_by_creator": false,
       "create_time": 1790163555,
       "cid": "7688693835833443073",
-      "replies": [
-        {
-          "user": "lanaa🤍",
-          "username": "llannaaluki",
-          "text": "Nedoo",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790199729,
-          "cid": "7688849157843747592"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Tijana",
@@ -1666,18 +695,7 @@
       "liked_by_creator": true,
       "create_time": 1790102426,
       "cid": "7688431310427767559",
-      "replies": [
-        {
-          "user": "Vukašin",
-          "username": "vukasin.vvl",
-          "text": "🤔",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790102723,
-          "cid": "7688432565012644628"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "vas_kkke",
@@ -1875,18 +893,7 @@
       "liked_by_creator": false,
       "create_time": 1790096929,
       "cid": "7688407720869217032",
-      "replies": [
-        {
-          "user": "Душан",
-          "username": "krgoviccc8",
-          "text": "Izvini raona",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790107790,
-          "cid": "7688454350230143751"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "ಮ್ಯಾನುಯೆಲ್007",
@@ -1930,18 +937,7 @@
       "liked_by_creator": false,
       "create_time": 1790099451,
       "cid": "7688418533629543188",
-      "replies": [
-        {
-          "user": "𝓘𝓽𝓪𝓷𝓪📸",
-          "username": "prelevicc.i",
-          "text": "AHHAHAHAAH",
-          "likes": 1,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790160612,
-          "cid": "7688681148139291398"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "🦇☆pavlee☆🦇",
@@ -1985,28 +981,7 @@
       "liked_by_creator": false,
       "create_time": 1790103152,
       "cid": "7688434447146320641",
-      "replies": [
-        {
-          "user": "🪩𝒁𝒂𝒏𝒂🍁",
-          "username": "zana29584",
-          "text": "DA",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790104110,
-          "cid": "7688438553269338887"
-        },
-        {
-          "user": "Ajla🫰🏻🪽",
-          "username": "ajla8315",
-          "text": "Luli💔",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790114817,
-          "cid": "7688484480302793473"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "gwthoughts",
@@ -2105,18 +1080,7 @@
       "liked_by_creator": false,
       "create_time": 1790108719,
       "cid": "7688458332109341448",
-      "replies": [
-        {
-          "user": "𝒮𝒶𝓇𝒶_ 𝓅𝓇𝒾𝓋",
-          "username": "saricacarica138",
-          "text": "🤨",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790188307,
-          "cid": "7688800163717251846"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "jelicch_",
@@ -2138,18 +1102,7 @@
       "liked_by_creator": false,
       "create_time": 1790110146,
       "cid": "7688464449690845969",
-      "replies": [
-        {
-          "user": "ksenijicaa",
-          "username": "_ksenija_najjaca_",
-          "text": "Au jovane",
-          "likes": 3,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790141226,
-          "cid": "7688597956551377682"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "⋆. 𐙚˚࿔ mᥲsᥲᥲ 𝜗𝜚˚⋆",
@@ -2193,18 +1146,7 @@
       "liked_by_creator": false,
       "create_time": 1790142884,
       "cid": "7688605085446963975",
-      "replies": [
-        {
-          "user": "𝐌𝐑𝐊𝐕𝐀ᢉ𐭩",
-          "username": "mrtvica67",
-          "text": "to nije Lara",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790187134,
-          "cid": "7688795141427495687"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Маша",
@@ -2270,18 +1212,7 @@
       "liked_by_creator": false,
       "create_time": 1790182076,
       "cid": "7688773385854616340",
-      "replies": [
-        {
-          "user": "🪽🌸",
-          "username": "anja130611",
-          "text": "Bukkkkkkk",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790341913,
-          "cid": "7689459933599236871"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "standupman993",
@@ -2292,18 +1223,7 @@
       "liked_by_creator": false,
       "create_time": 1790198083,
       "cid": "7688842087853425429",
-      "replies": [
-        {
-          "user": ".",
-          "username": "nesa.manjak",
-          "text": "isto msm ali očigledno niko vise",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790341638,
-          "cid": "7689458749085483797"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Nađa🪼",
@@ -2325,18 +1245,7 @@
       "liked_by_creator": false,
       "create_time": 1790253056,
       "cid": "7689078269459759880",
-      "replies": [
-        {
-          "user": "🍁★duki~ʚ♡⃛ɞ🦌",
-          "username": "dunja6700",
-          "text": "ovo je malo cringe",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790334010,
-          "cid": "7689425967068775175"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "micyvid",
@@ -2369,18 +1278,7 @@
       "liked_by_creator": false,
       "create_time": 1790326375,
       "cid": "7689393158640599815",
-      "replies": [
-        {
-          "user": "semafor🌹",
-          "username": "wseclmb",
-          "text": "ne da mu se",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790326837,
-          "cid": "7689395172215489287"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "🪽",
@@ -2567,18 +1465,7 @@
       "liked_by_creator": false,
       "create_time": 1790108027,
       "cid": "7688455371333419794",
-      "replies": [
-        {
-          "user": "￴ ￴ ￴ ￴",
-          "username": "kostadinovicandrijaa",
-          "text": "Ok",
-          "likes": 2,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790173539,
-          "cid": "7688736764957295412"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Bacho_16",
@@ -3348,28 +2235,7 @@
       "liked_by_creator": false,
       "create_time": 1790171390,
       "cid": "7688727410181014274",
-      "replies": [
-        {
-          "user": "zivot",
-          "username": "zivot304",
-          "text": "Da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790173468,
-          "cid": "7688736395074257686"
-        },
-        {
-          "user": "Inesss",
-          "username": "martinacigvan1",
-          "text": "ok",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790174426,
-          "cid": "7688740498282562326"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "jaroslavamax12",
@@ -3666,38 +2532,7 @@
       "liked_by_creator": false,
       "create_time": 1790190551,
       "cid": "7688809780786234132",
-      "replies": [
-        {
-          "user": "Suvix",
-          "username": "suvix78",
-          "text": "odakle pa ti ovde",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790344412,
-          "cid": "7689470642890851093"
-        },
-        {
-          "user": "☆Callmemajmune☆",
-          "username": "sofijazindovic3",
-          "text": "pa pratim epizode",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790344442,
-          "cid": "7689470786352497429"
-        },
-        {
-          "user": "Suvix",
-          "username": "suvix78",
-          "text": "opaaaa",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790344460,
-          "cid": "7689470853432378164"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "Relj@🇷🇸☦️⚽",
@@ -3730,18 +2565,7 @@
       "liked_by_creator": false,
       "create_time": 1790193568,
       "cid": "7688822756309517076",
-      "replies": [
-        {
-          "user": "semafor🌹",
-          "username": "wseclmb",
-          "text": "da",
-          "likes": 0,
-          "replies_count": 0,
-          "liked_by_creator": false,
-          "create_time": 1790326819,
-          "cid": "7689395058022400775"
-        }
-      ]
+      "replies": []
     },
     {
       "user": "🦕eon",

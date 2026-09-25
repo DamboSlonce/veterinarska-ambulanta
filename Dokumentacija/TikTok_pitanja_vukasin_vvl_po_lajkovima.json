@@ -1,9 +1,9 @@
 {
   "video_url": "https://www.tiktok.com/@vukasin.vvl/video/7688407288696032532",
-  "note": "Filtrirani komentari nisu dostupni javnom API-ju. Uključena su samo pitanja iz dostupnih komentara/odgovora.",
+  "note": "Samo top-level pitanja. Odgovori na komentare su isključeni. Filtrirani komentari nisu dostupni javnom API-ju.",
   "available_comments": 298,
   "api_total": 567,
-  "questions_count": 107,
+  "questions_count": 97,
   "questions": [
     {
       "user": "ana",
@@ -761,19 +761,6 @@
       "source": "top"
     },
     {
-      "user": "Aldox",
-      "username": "aldox211",
-      "text": "a tebi ?? a da nije Vukašin",
-      "likes": 22,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790200573,
-      "cid": "7688852673014301462",
-      "source": "reply",
-      "parent_user": "antevrankic",
-      "parent_text": "ko ti se od muskaraca najvise svidio?"
-    },
-    {
       "user": "Nadja🌸💗🌺",
       "username": "nadja1561",
       "text": "Ko te najvise nerviro",
@@ -853,32 +840,6 @@
       "cid": "7688423456346227477",
       "replies": [],
       "source": "top"
-    },
-    {
-      "user": "Адра",
-      "username": "cryracha",
-      "text": "misliiiš?",
-      "likes": 12,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790111390,
-      "cid": "7688469811357188872",
-      "source": "reply",
-      "parent_user": "strwbryana",
-      "parent_text": "i jel su momci bolji ulov na kraju?"
-    },
-    {
-      "user": "ITACHI UCHIHA",
-      "username": "crnidjordje11",
-      "text": "kad si debilka",
-      "likes": 12,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790135958,
-      "cid": "7688575330600223509",
-      "source": "reply",
-      "parent_user": "bosnjakkkm3",
-      "parent_text": "vukii plakala sam vise od anthonya"
     },
     {
       "user": "Aljosa Mirkovic",
@@ -1311,19 +1272,6 @@
       "source": "top"
     },
     {
-      "user": "11010",
-      "username": "l33vu_210",
-      "text": "sta pises bre ti",
-      "likes": 2,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790245372,
-      "cid": "7689045283631776518",
-      "source": "reply",
-      "parent_user": "kulja_f",
-      "parent_text": "Koje ovde pre 5 lajkova"
-    },
-    {
       "user": "𝙪𝙣𝙖 𝙥𝙚𝙩𝙧𝙤𝙫𝙞ć",
       "username": "unicka16_",
       "text": "Da li ste smeli u nekim odvojenim prostorijama da pušite cigare, tereu ect. ili je to totalno bilo zabranjeno u vili?",
@@ -1467,45 +1415,6 @@
       "source": "top"
     },
     {
-      "user": "🖤",
-      "username": "cabric_lana",
-      "text": "Izvini?",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790099353,
-      "cid": "7688418113533051655",
-      "source": "reply",
-      "parent_user": "natalija3171",
-      "parent_text": "ajde da se vratis kao boom sheal"
-    },
-    {
-      "user": "I",
-      "username": "iskra.banovicc",
-      "text": "Kad ces da odgovorisss",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790102632,
-      "cid": "7688432204791202581",
-      "source": "reply",
-      "parent_user": "iskra.banovicc",
-      "parent_text": "Jel cete ti i tara da se čujete kada se love island zavrsi"
-    },
-    {
-      "user": "𝓝𝓪𝓽𝓪𝓵𝓲𝓳𝓪",
-      "username": "natalija3171",
-      "text": "sta?",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790102793,
-      "cid": "7688432925864215312",
-      "source": "reply",
-      "parent_user": "natalija3171",
-      "parent_text": "ajde da se vratis kao boom sheal"
-    },
-    {
       "user": "nikola_panic",
       "username": "nikola_panic0",
       "text": "da li ces ih posle pozvati na bleju",
@@ -1528,19 +1437,6 @@
       "cid": "7688442823042417428",
       "replies": [],
       "source": "top"
-    },
-    {
-      "user": "Jovanović🇧🇷",
-      "username": "veljkojovanovic009",
-      "text": "jeste",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790106735,
-      "cid": "7688449834038084360",
-      "source": "reply",
-      "parent_user": "rosic.95",
-      "parent_text": "Da li je ovaj brat bio u vvl brothers?"
     },
     {
       "user": "Nadja🌸💗🌺",
@@ -1613,19 +1509,6 @@
       "cid": "7688484346005750548",
       "replies": [],
       "source": "top"
-    },
-    {
-      "user": "pavle866",
-      "username": "pavle866",
-      "text": "I jel jesi",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790115538,
-      "cid": "7688487551203951380",
-      "source": "reply",
-      "parent_user": "rosic.95",
-      "parent_text": "Da li je ovaj brat bio u vvl brothers?"
     },
     {
       "user": "bengi",
@@ -2109,19 +1992,6 @@
       "cid": "7689463170980905746",
       "replies": [],
       "source": "top"
-    },
-    {
-      "user": "Suvix",
-      "username": "suvix78",
-      "text": "odakle pa ti ovde",
-      "likes": 0,
-      "replies_count": 0,
-      "liked_by_creator": false,
-      "create_time": 1790344412,
-      "cid": "7689470642890851093",
-      "source": "reply",
-      "parent_user": "sofijazindovic3",
-      "parent_text": "Da li jer režija pravila karaktere od ljudi i da li su bili drugačiji van kamemere ?"
     },
     {
       "user": "mira",
